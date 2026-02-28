@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int evennumber(){
+int oddnumber(){
   
   int counter;
   int result = 0;
@@ -13,7 +13,7 @@ int evennumber(){
 
 }
 int main() {
-  evennumber();
+  oddnumber();
 
   return 0;
 }
