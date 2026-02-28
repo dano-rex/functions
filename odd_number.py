@@ -10,6 +10,8 @@ int oddnumber(){
   {
     cout <<counter <<" ";
   }
+  
+  return result;
 
 }
 int main() {
