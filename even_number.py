@@ -10,6 +10,8 @@ int evennumber(){
   {
     cout <<counter <<" ";
   }
+  
+  return result;
 
 }
 int main() {
