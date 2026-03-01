@@ -6,8 +6,3 @@ int divide (int a, int b) {
   
   return result;
 }
-
-int main() {
- divide (a,b);
-  return 0;
-}
