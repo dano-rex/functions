@@ -6,8 +6,3 @@ int multiply (int a, int b,int c) {
   
   return result;
 }
-
-int main() {
- multiply (a,b,c);
-  return 0;
-}
